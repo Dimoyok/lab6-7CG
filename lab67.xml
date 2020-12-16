@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sphereDiameter>1.0</sphereDiameter>
+<sphereDiameterTolerance>0.2</sphereDiameterTolerance>
+<innerCylinderD>3.0</innerCylinderD>
+<outerCylinderD>8.0</outerCylinderD>
+<cylinderH>6.0</cylinderH>
+<cylindersDelta>2.0</cylindersDelta>
+<particlesH>6.0</particlesH>
+<scaleFactor>1.5</scaleFactor>
+<maxParticles>1200</maxParticles>
+<discreteK>16</discreteK>
